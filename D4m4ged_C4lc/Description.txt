@@ -1,0 +1,4 @@
+This calculator does more than javascript operation
+Check out for errors
+
+Author: devPlayer55221
